@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\Models\\OrderTest::testGetTaxIfNotSet":0.006,"Tests\\Models\\OrderTest::testGetTotalIfSuccess":0,"Tests\\Models\\OrderTest::testGetTotalIfWrong":0.001}}
